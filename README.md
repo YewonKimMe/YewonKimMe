@@ -1,5 +1,5 @@
 # 🌱 Hi, I'm Yewon Kim.
-![language](https://img.shields.io/github/languages/count/yewonkimme/survive)
+
 # Language, Framwork and Tools
 ### Language
 ![Java](https://img.shields.io/badge/java-007396.svg?style=flat&logo=openjdk&logoColor=white)
