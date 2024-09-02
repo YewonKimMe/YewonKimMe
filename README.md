@@ -1,4 +1,4 @@
-# 🌱 Hi, I'm Yewon Kim. 🔭
+# 🌱 Hi, I'm Yewon Kim.
 
 # Language, Framwork and Tools
 ### Language
