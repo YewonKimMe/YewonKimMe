@@ -1,6 +1,5 @@
-# 🌱 Hi, I'm Yewon Kim.
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD159,100:3A4A51&height=280&section=header&text=@YewonKimMe&fontSize=80)
 
-# Language, Framwork and Tools
 ### Language
 ![Java](https://img.shields.io/badge/java-007396.svg?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
