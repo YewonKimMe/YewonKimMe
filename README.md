@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD159,100:3A4A51&height=280&section=header&text=@YewonKimMe&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD159,100:C0EB6A&height=280&section=header&text=🐈‍⬛@YewonKimMe&fontSize=80)
 
 ### Language
 ![Java](https://img.shields.io/badge/java-007396.svg?style=flat&logo=openjdk&logoColor=white)
