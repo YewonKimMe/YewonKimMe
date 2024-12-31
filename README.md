@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD159,100:C0EB6A&height=280&section=header&text=🐈‍⬛@YewonKimMe&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD159,100:C0EB6A&height=280&section=header&text=YewonKimMe&fontSize=80)
 
 ![Java](https://img.shields.io/badge/java-007396.svg?style=flat&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
