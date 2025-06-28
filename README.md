@@ -1,6 +1,28 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD159,100:C0EB3A&height=280&section=header&text=KimYewon's%20Repository&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD159,100:C0EB3A&height=280&section=header&text=YewonKim's%20Repository&fontSize=40)
 
-<!--![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)-->
+# 👋 Hi, I'm Yewon Kim — aspiring backend engineer
+
+I love digging into how backend systems work — from databases to concurrency and API design.  
+Learning by building is my favorite way to grow as a developer.  
+Thanks for visiting my GitHub!
+
+- 🔭 Currently exploring backend systems and cloud architecture
+
+## 🛠 Stack
+- 💻 Language: Java, Python, Kotlin
+- 🌱 Framework: Spring Boot, Spring Data JPA, Spring Security, Spring WebSocket
+- 🛢 Database: MySQL, Redis
+- ☁ Cloud & Infra: AWS, OCI, Docker, GitHub Actions
+- 🛠 Tools: Git, Gradle
+
+## 📝 Activities
+
+| Year | Award Name                                               | Description        |
+|------|---------------------------------------------------------|--------------------|
+| 2025 | 2nd ART-AWS Living Lab Glocal Hackathon Grand Prize 🏆      | AWS HACKATHON      |
+
+
+
 <!--
 **YewonKimMe/YewonKimMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
