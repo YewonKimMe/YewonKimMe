@@ -21,6 +21,8 @@ Thanks for visiting my GitHub!
 |------|---------------------------------------------------------|--------------------|
 | 2024 | 2nd ART-AWS Living Lab Glocal Hackathon Grand Prize 🏆      | AWS HACKATHON      |
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YewonKimMe&layout=compact&theme=tokyonight&card_width=850)
+
 
 
 <!--
