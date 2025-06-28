@@ -19,7 +19,7 @@ Thanks for visiting my GitHub!
 
 | Year | Award Name                                               | Description        |
 |------|---------------------------------------------------------|--------------------|
-| 2025 | 2nd ART-AWS Living Lab Glocal Hackathon Grand Prize 🏆      | AWS HACKATHON      |
+| 2024 | 2nd ART-AWS Living Lab Glocal Hackathon Grand Prize 🏆      | AWS HACKATHON      |
 
 
 
